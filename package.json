@@ -1,0 +1,17 @@
+{
+  "name": "Catt",
+  "version": "1.0.0",
+  "description": "<img src=\"https://cdn.discordapp.com/app-icons/730234792360280114/1eebad20fa20afac6e2f816feac98608.png\">",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "express": "^4.17.1",
+    "moment": "^2.29.1"
+  }
+}
